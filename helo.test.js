@@ -37,7 +37,7 @@ it("Can add new employee", async() =>{
 
    await clickSave.click()
 
-   let newEmployeeConfirm = await driver.findElement(By.css)
+   // let newEmployeeConfirm = await driver.findElement(By.css)
 })
 })
 
